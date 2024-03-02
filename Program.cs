@@ -44,7 +44,7 @@ if (indiceLast != -1)
     Console.WriteLine("La palabra 'trabajo' comienza en el índice: " + indiceLast);
 }
 else
-{
+{ 
     Console.WriteLine("La palabra 'trabajo' no se encontró en la cadena.");
 }
 // Uso de Substring()
